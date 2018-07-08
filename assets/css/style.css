@@ -1,6 +1,6 @@
 
 *{
-    text-shadow: 1px 1px 2px rgba(34, 33, 33, 0.959);    
+   
 }
 
 .col-sm-8,#questions{
@@ -30,7 +30,7 @@
  -webkit-box-shadow: inset 0 0 10px rgb(131, 127, 127);
  -moz-box-shadow: inset 0 0 10px rgb(131, 127, 127);
  -ms-box-shadow: inset 0 0 10px  rgb(131, 127, 127);
-  box-shadow: inset 0 0 10px rgb(131, 127, 127);;
+  box-shadow: inset 0 0 10px rgb(131, 127, 127);
     
 }
 
@@ -141,3 +141,4 @@ input[type=radio]{
     width: 18px!important;
     height:18px!important;
     }
+
