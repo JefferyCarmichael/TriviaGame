@@ -1,8 +1,8 @@
 # TriviaGame
-
+![triva.jpg](/assets/images/trivia.jpg)
 * The triva game is based on StarTrek.
-* There are 10 questions.
-* You have 90 seconds to answer them.
+* Answer 10 questions base on the show in 90 seconds. Good luck.
 
+---
 
-The link is: https://jefferycarmichael.github.io/TriviaGame/ 
+Game link: https://jefferycarmichael.github.io/TriviaGame/ 
